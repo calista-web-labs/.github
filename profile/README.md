@@ -8,7 +8,7 @@
 
 This organization is dedicated exclusively to **web-focused work**, including:
 
-* Full-stack web development (frontend, backend, API, and system logic)
+* Full-stack web development
 * UI engineering, interaction design, and layout systems
 * Web architecture and system design experiments
 * Component-driven and design-oriented implementations
