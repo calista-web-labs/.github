@@ -13,7 +13,7 @@ This organization is dedicated exclusively to **web-focused work**, including:
 * Web architecture and system design experiments
 * Component-driven and design-oriented implementations
 
-> Machine Learning and applied AI projects are maintained at **[calista-labs-ml](https://github.com/calista-labs-ml)**.
+> Machine Learning and applied AI projects are maintained at **[calista-labs-ml](https://github.com/calista-ml-labs)**.
 >
 > Cross-domain experiments (ML × Web), general coding labs, and programming language explorations are maintained at **[calista-labs](https://github.com/calista-labs)**.
 
