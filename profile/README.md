@@ -13,7 +13,7 @@ This organization is dedicated exclusively to **web-focused work**, including:
 * Web architecture and system design experiments
 * Component-driven and design-oriented implementations
 
-> Machine Learning and applied AI projects are maintained at **[calista-labs-ml](https://github.com/calista-ml-labs)**.
+> Machine Learning and applied AI projects are maintained at **[calista-ml-labs](https://github.com/calista-ml-labs)**.
 >
 > Cross-domain experiments (ML × Web), general coding labs, and programming language explorations are maintained at **[calista-labs](https://github.com/calista-labs)**.
 
@@ -29,11 +29,9 @@ Projects here may include prototypes, demos, and iterative builds.
 
 ## Project Navigator
 
-For a structured overview of all active and archived web projects, including learning paths and focus areas, refer to the **Project Navigator** repository:
+This repository is a **simple index of web projects** developed under Calista Web Labs, listing projects with short descriptions for quick overview.
 
-**[Project Navigator](https://github.com/calista-web-labs/project)**
-
-This repository acts as the central index for navigating project goals, progress, and relationships across Calista Web Labs.
+**[Project navigator](https://github.com/calista-web-labs/project)**
 
 ## Ownership
 
