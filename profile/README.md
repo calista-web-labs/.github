@@ -31,7 +31,7 @@ Projects here may include prototypes, demos, and iterative builds.
 
 For a structured overview of all active and archived web projects, including learning paths and focus areas, refer to the **Project Navigator** repository:
 
-**[https://github.com/calista-web-labs/project](https://github.com/calista-web-labs/project)**
+**(Project Navigator)[https://github.com/calista-web-labs/project](https://github.com/calista-web-labs/project)**
 
 This repository acts as the central index for navigating project goals, progress, and relationships across Calista Web Labs.
 
