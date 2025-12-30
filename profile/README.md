@@ -27,6 +27,14 @@ This lab exists as a focused space for **web engineering only**:
 
 Projects here may include prototypes, demos, and iterative builds.
 
+## Project Navigator
+
+For a structured overview of all active and archived web projects, including learning paths and focus areas, refer to the **Project Navigator** repository:
+
+**[https://github.com/calista-web-labs/project](https://github.com/calista-web-labs/project)**
+
+This repository acts as the central index for navigating project goals, progress, and relationships across Calista Web Labs.
+
 ## Ownership
 
 All repositories in this organization are **personally developed and maintained by [Calista Salsabila](https://github.com/calistasalsabila)**.
